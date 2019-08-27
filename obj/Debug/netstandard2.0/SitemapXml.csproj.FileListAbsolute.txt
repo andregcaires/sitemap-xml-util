@@ -1,0 +1,9 @@
+C:\Testes\SitemapXml\bin\Debug\netstandard2.0\SitemapXml.deps.json
+C:\Testes\SitemapXml\bin\Debug\netstandard2.0\SitemapXml.dll
+C:\Testes\SitemapXml\bin\Debug\netstandard2.0\SitemapXml.pdb
+C:\Testes\SitemapXml\obj\Debug\netstandard2.0\SitemapXml.csprojAssemblyReference.cache
+C:\Testes\SitemapXml\obj\Debug\netstandard2.0\SitemapXml.csproj.CoreCompileInputs.cache
+C:\Testes\SitemapXml\obj\Debug\netstandard2.0\SitemapXml.AssemblyInfoInputs.cache
+C:\Testes\SitemapXml\obj\Debug\netstandard2.0\SitemapXml.AssemblyInfo.cs
+C:\Testes\SitemapXml\obj\Debug\netstandard2.0\SitemapXml.dll
+C:\Testes\SitemapXml\obj\Debug\netstandard2.0\SitemapXml.pdb
